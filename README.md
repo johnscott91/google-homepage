@@ -1,0 +1,1 @@
+This is my first project in the Odin Project foundations course.  You will find a replica of Google's homepage.  Enjoy!
