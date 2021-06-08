@@ -1,0 +1,38 @@
+.google_top_nav {
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    margin: 10px;
+  }
+  
+  .top_nav_left {
+    float: left;
+  }
+  .top_nav_right {
+    float: right;
+  }
+  
+  body {
+    text-align: center;
+  }
+  .google_bottom_nav {
+    position: fixed;
+    bottom: 0;
+    z-index: 100;
+    margin: 10px;
+  }
+  
+  #search_bar {
+    width: 250px;
+    text-align: center;
+  }
+  
+  .search_button {
+    width: 100px;
+    height: 40px;
+  }
+  
+  .lucky_button {
+    width: 100px;
+    height: 40px;
+  }
